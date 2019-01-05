@@ -4,4 +4,10 @@ There were no resistor icon offered in the available graphics and I couldn't fin
 
 Here's an example of the output.
 
-![alt text](https://github.com/blinkertonlabs/processing-resistor-phone-case/blob/master/DrawResistor/ResistorIcon.svg "Resistor Icon")
+![Processing Output](https://github.com/blinkertonlabs/processing-resistor-phone-case/blob/master/DrawResistor/ResistorIcon.svg "Resistor Icon")
+
+
+
+Finished Product
+
+![Actual Photo](https://github.com/blinkertonlabs/processing-resistor-phone-case/blob/master/Media/IMG_6725.JPG)
